@@ -22,7 +22,7 @@ AIRGEDDON_PRINT_HINTS=true
 #Enabled true / Disabled false - Enable 5Ghz support (it has no effect if your cards are not 5Ghz compatible cards) - Default value true
 AIRGEDDON_5GHZ_ENABLED=true
 
-#Enable true / Disabled flase- Enable Hidden SSID search
+#Enabled true / Disabled flase - Enable Hidden SSID search
 Airgeddon_SSID_SHOW=true
 
 #Enabled true / Disabled false - Force to use iptables instead of nftables (it has no effect if nftables are not present) - Default value false
